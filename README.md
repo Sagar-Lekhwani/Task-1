@@ -27,6 +27,6 @@ This assignment marks the restart of my developer journey — going from **basic
 
 Below is the preview image of the assignment task that was recreated successfully.
 
-```html
 
-<img width="1368" height="906" alt="image" src="./Taskimage/task.jpeg" />
+
+![alt text](Taskimage/task.jpeg)
