@@ -29,4 +29,4 @@ Below is the preview image of the assignment task that was recreated successfull
 
 ```html
 
-<img width="1368" height="906" alt="image" src="https://github.com/user-attachments/assets/6dfc6c14-918d-49b1-952a-b9501c5241fc" />
+<img width="1368" height="906" alt="image" src="./Taskimage/task.jpeg" />
